@@ -1,0 +1,31 @@
+.global{
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 900px;
+    height: 100%;
+}
+.header{
+    width: inherit;
+    height: 50px;
+    
+    background-color: #0ff;
+    padding-top: 100px;
+}
+
+.header_menu{
+    width: inherit;
+    height: inherit;
+    
+    background-color: #0094ff;
+}
+
+.body{
+    margin-left: inherit;
+    margin-right: inherit;
+    
+    width: inherit;
+    height: inherit;
+    
+    background-color: #b6ff00;
+}
