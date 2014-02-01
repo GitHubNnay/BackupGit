@@ -10,7 +10,6 @@
     </head>
     <body>
         <div class="global">
-            Hello !
             <?php include ("include/header.php");?>
             <?php include ("include/body.php");?>
         </div>
